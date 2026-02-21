@@ -14,11 +14,9 @@ Allez, pas le temps de blablater, c’est parti.
 ## Dans les grandes lignes :
 
 * Appréhender les casques :
-
   * Savoir démarrer le casque et naviguer dans les menus
   * Savoir lancer Godot
   * Savoir quitter et relancer Godot
-
     * Savoir passer de Godot à un jeu XR
   * Savoir créer un réseau Wi-Fi depuis le PC et s’y connecter avec le casque
 * Brancher un hub USB-C pour avoir un clavier et une souris
