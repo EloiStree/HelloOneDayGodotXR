@@ -11,4 +11,30 @@ Allez, pas le temps de blablater, c’est parti.
 
 ---
 
+Fait pour vous:
+- [ ] Installer depuis le store:
+  - [ ] Godot Engine
+  - [ ] Open Brush
+  - [ ] Open Blocks
+  - [ ] Gravity Sketch
+- [ ] Installer manuellement
+  - [ ] F-Droid
+  - [ ] Termux
+    - [ ] Faux Compte GitHub
+  - [ ] Fossify File Manager 
+  - [ ] Faux Compte Gravity Sketch
+  - [ ] git clone project_commun.git
+Note:
+- [ ] Deconnecter le casque du Wifi avant de l utiliser
+  - [ ] Pour permettre le "multi-compte"
 
+
+- Importer depuis:
+  - Open Brush
+    - https://youtu.be/NtxuV1WpRPc?t=10307
+  - Open Blocks
+    - https://youtu.be/NtxuV1WpRPc?t=10450
+  - Bonus: VR Painting
+    - https://youtu.be/NtxuV1WpRPc?t=11124
+  - Bonus: Gravity Sketch
+    - https://youtu.be/NtxuV1WpRPc?t=10962
