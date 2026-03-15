@@ -2,6 +2,11 @@
 
 > Un jour pour vous apprendre à faire une application en Godot XR
 
+Exercice: 
+[<img width="1912" height="983" alt="Image" src="https://github.com/user-attachments/assets/4e7bf53e-8f07-4cc5-867c-02233ff89f87" />](https://youtu.be/cMIOaX0smCk)  
+https://youtu.be/cMIOaX0smCk  
+
+
 Configurer Godot et commencer un projet en XR prend littéralement 4 minutes 😲.
 Bon, après, il faut apprendre à utiliser Godot ;)
 
