@@ -69,11 +69,12 @@ https://youtu.be/cMIOaX0smCk
 
 
 - Importer depuis:
-  - Open Brush
+  - [Open Brush](https://github.com/EloiStree/HelloGodotXR/issues/124)
     - https://youtu.be/NtxuV1WpRPc?t=10307
-  - Open Blocks
+  - [Open Blocks](https://github.com/EloiStree/HelloGodotXR/issues/122)
     - https://youtu.be/NtxuV1WpRPc?t=10450
-  - Bonus: VR Painting
+  - Bonus: [VR Painting](https://github.com/EloiStree/HelloGodotXR/issues/126)
     - https://youtu.be/NtxuV1WpRPc?t=11124
-  - Bonus: Gravity Sketch
+  - Bonus: [Gravity Sketch](https://github.com/EloiStree/HelloGodotXR/issues/125)
     - https://youtu.be/NtxuV1WpRPc?t=10962
+  - [Encore plus ?](https://github.com/EloiStree/HelloGodotXR/issues/148)
