@@ -48,6 +48,26 @@ Ta liste n’était pas catastrophique, mais elle avait quelques petits crimes c
 https://youtu.be/cMIOaX0smCk  
 
 
+- [ ] [00:00](https://www.youtube.com/watch?v=cMIOaX0smCk) Introduction
+- [ ] [00:14](https://www.youtube.com/watch?v=cMIOaX0smCk&t=14s) Ouvrons Open Brush
+- [ ] [00:51](https://www.youtube.com/watch?v=cMIOaX0smCk&t=51s) Passons en réalité augmentée
+- [ ] [01:02](https://www.youtube.com/watch?v=cMIOaX0smCk&t=62s) Activons l’outil de ligne droite
+- [ ] [01:40](https://www.youtube.com/watch?v=cMIOaX0smCk&t=100s) Prenons un marquage intemporel
+- [ ] [02:17](https://www.youtube.com/watch?v=cMIOaX0smCk&t=137s) Dessinons un petit sketch
+- [ ] [03:21](https://www.youtube.com/watch?v=cMIOaX0smCk&t=201s) Exportons le level depuis Open Brush
+- [ ] [04:38](https://www.youtube.com/watch?v=cMIOaX0smCk&t=278s) Allons dans Fossify File Manager
+- [ ] [05:04](https://www.youtube.com/watch?v=cMIOaX0smCk&t=304s&pp=0gcJCTAAlc8ueATH) Déplaçons notre fichier vers Documents
+- [ ] [06:13](https://www.youtube.com/watch?v=cMIOaX0smCk&t=373s) Allons ouvrir Godot
+- [ ] [07:10](https://www.youtube.com/watch?v=cMIOaX0smCk&t=430s) Un peu de structure dans ces dossiers
+- [ ] [08:00](https://www.youtube.com/watch?v=cMIOaX0smCk&t=480s) Une petite scène 3D pour notre level design
+- [ ] [09:34](https://www.youtube.com/watch?v=cMIOaX0smCk&t=574s) Regardons ce que ça donne si on fait tout cela en groupe
+- [ ] [11:01](https://www.youtube.com/watch?v=cMIOaX0smCk&t=661s) Allons sauver cela en ligne
+- [ ] [14:09](https://www.youtube.com/watch?v=cMIOaX0smCk&t=849s) Vérifions que cela est en ligne
+- [ ] [15:07](https://www.youtube.com/watch?v=cMIOaX0smCk&t=907s) Voilà voilà Voila voila https://youtu.be/cMIOaX0smCk?t=907
+
+--------------------
+
+
 - Importer depuis:
   - Open Brush
     - https://youtu.be/NtxuV1WpRPc?t=10307
