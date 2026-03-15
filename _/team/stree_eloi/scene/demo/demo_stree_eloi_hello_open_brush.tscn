@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bn8fjnpg1n1q4"]
+
+[ext_resource type="PackedScene" uid="uid://dh75hwviqvoeh" path="res://_/team/stree_eloi/3d/open_brush/Untitled__22/glb/Untitled__22.glb" id="1_cc1l8"]
+
+[node name="DemoStreeEloiHelloOpenBrush" type="Node3D" unique_id=1737688471]
+
+[node name="EloiLevelTreeTableRiver" parent="." unique_id=1502448587 instance=ExtResource("1_cc1l8")]
+transform = Transform3D(-0.39927727, 0, -0.91683036, 0, 1, 0, 0.91683036, 0, -0.39927727, -0.32914305, 0, 1.8968816)
