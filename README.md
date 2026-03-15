@@ -9,7 +9,9 @@
 > Puis on ferra le meme exercice en XR
 
 Des cubes 🧊 :  
-https://github.com/EloiStree/2026_03_15_gdp_hello_cube  
+[<img width="1102" height="116" alt="Image" src="https://github.com/user-attachments/assets/60d27acd-fdfd-435b-b37c-bd0422aedc40" />](https://github.com/EloiStree/2026_03_15_gdp_hello_cube)  
+[<img width="1110" height="65" alt="Image" src="https://github.com/user-attachments/assets/456ec37a-dd3a-4a5f-933c-95e72a6ef292" />](https://github.com/EloiStree/2026_03_15_gdp_hello_cube)  
+https://github.com/EloiStree/2026_03_15_gdp_hello_cube    
 
 🖼️  
 🎥  
