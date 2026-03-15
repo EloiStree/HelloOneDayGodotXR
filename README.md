@@ -2,36 +2,50 @@
 
 > Un jour pour vous apprendre à faire une application en Godot XR
 
-Exercice: 
-[<img width="1912" height="983" alt="Image" src="https://github.com/user-attachments/assets/4e7bf53e-8f07-4cc5-867c-02233ff89f87" />](https://youtu.be/cMIOaX0smCk)  
-https://youtu.be/cMIOaX0smCk  
 
+### Exercice: Bon beau cube
 
-Configurer Godot et commencer un projet en XR prend littéralement 4 minutes 😲.
+> Avant d'aller en XR, essayons de creer un cube en Godot.
+> Puis on ferra le meme exercice en XR
+
+🖼️  
+🎥  
+
+### Exercice: Hello Godot Cube XR
+
+> Configurer Godot et commencer un projet en XR prend littéralement 4 minutes 😲.
 Bon, après, il faut apprendre à utiliser Godot ;)
 
-Je vous propose, en un atelier de 7 heures, d’apprendre à faire un jeu en Godot directement dans les casques.
+🖼️  
+🎥  
 
-Allez, pas le temps de blablater, c’est parti.
 
----
 
-Fait pour vous:
-- [ ] Installer depuis le store:
-  - [ ] Godot Engine
-  - [ ] Open Brush
-  - [ ] Open Blocks
-  - [ ] Gravity Sketch
-- [ ] Installer manuellement
-  - [ ] F-Droid
-  - [ ] Termux
-    - [ ] Faux Compte GitHub
-  - [ ] Fossify File Manager 
-  - [ ] Faux Compte Gravity Sketch
-  - [ ] git clone project_commun.git
-Note:
-- [ ] Deconnecter le casque du Wifi avant de l utiliser
-  - [ ] Pour permettre le "multi-compte"
+### Pre-Exercice: Configurer les casques
+
+Ta liste n’était pas catastrophique, mais elle avait quelques petits crimes contre la grammaire française. Rien de dramatique, juste de quoi faire grimacer un prof de français. Voilà une version corrigée et un peu plus propre.
+
+* [ ] Passer le casque en mode **Developer** (*)
+* [ ] Installer **Godot** depuis le store
+* [ ] Installer **scrcpy** sur le PC
+* [ ] Installer **F-Droid** avec **ADB** ou **scrcpy**
+* [ ] Installer **Fossify File Manager** depuis **F-Droid**
+* [ ] Installer **Termux** depuis **F-Droid**
+* [ ] Installer **TermuC File Manager** depuis **F-Droid**
+* [ ] Installer **Git** `pkg install git -y`
+* [ ] Donner un **nom et un e-mail à Git**
+* [ ] Installer **GitHub CLI** `pkg install gh -y`
+* [ ] **Se connecter** sur le Quest avec **GitHub**
+* [ ] Cloner le **projet HelloOneDayGodotXR** dans **Documents**
+* [ ] Importer le **projet dans Godot**
+
+
+### L'exercice: Open Brush en groupe avec git.
+
+> Esseyons de faire du level design en groupe 🖌️
+
+[<img width="1912" height="983" alt="Image" src="https://github.com/user-attachments/assets/4e7bf53e-8f07-4cc5-867c-02233ff89f87" />](https://youtu.be/cMIOaX0smCk)  
+https://youtu.be/cMIOaX0smCk  
 
 
 - Importer depuis:
