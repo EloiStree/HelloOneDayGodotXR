@@ -8,6 +8,9 @@
 > Avant d'aller en XR, essayons de creer un cube en Godot.
 > Puis on ferra le meme exercice en XR
 
+Des cubes 🧊 :  
+https://github.com/EloiStree/2026_03_15_gdp_hello_cube  
+
 🖼️  
 🎥  
 
