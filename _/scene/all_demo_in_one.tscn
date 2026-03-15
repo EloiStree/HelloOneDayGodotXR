@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://d3xsjfgeudy6q"]
+
+[ext_resource type="PackedScene" uid="uid://cc5sxs5yg003g" path="res://_/team/christine_louette/scene/demo_christine_louette_hello_world.tscn" id="1_kluim"]
+[ext_resource type="PackedScene" uid="uid://bn8fjnpg1n1q4" path="res://_/team/stree_eloi/scene/demo/demo_stree_eloi_hello_open_brush.tscn" id="2_nuy8v"]
+
+[node name="AllDemoInOne" type="Node3D" unique_id=1336880841]
+
+[node name="DemoChristineLouetteHelloWorld" parent="." unique_id=1882332600 instance=ExtResource("1_kluim")]
+
+[node name="DemoStreeEloiHelloOpenBrush" parent="DemoChristineLouetteHelloWorld" unique_id=1737688471 instance=ExtResource("2_nuy8v")]

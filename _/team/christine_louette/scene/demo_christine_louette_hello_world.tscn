@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cc5sxs5yg003g"]
+
+[ext_resource type="PackedScene" uid="uid://d37fgq67qwrxi" path="res://_/team/christine_louette/3d/open_brush/Untitled__23/glb/Untitled__23.glb" id="1_3so84"]
+
+[node name="DemoChristineLouetteHelloWorld" type="Node3D" unique_id=1882332600]
+
+[node name="Untitled__23" parent="." unique_id=109386285 instance=ExtResource("1_3so84")]
+transform = Transform3D(-0.3924816, 1.8259312e-08, -0.91975987, 1.0842141e-08, 1, 1.5225684e-08, 0.91975987, -3.996366e-09, -0.3924816, -0.32055837, 0, 1.9345042)
