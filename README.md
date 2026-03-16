@@ -60,8 +60,8 @@ Bon, après, il faut apprendre à utiliser Godot ;)
 
 > C est trop pour aujourd'hui... Mais c'est quoi en gros un cube ?  
    
-🖼️  
-🎥  
+[<img width="1836" height="945" alt="image" src="https://github.com/user-attachments/assets/1d0f74f6-9eec-4b9f-85f8-f886f1e58cc0" />](https://youtu.be/fT_yVg7_ECg)  
+[🎥](https://youtu.be/fT_yVg7_ECg) https://youtu.be/fT_yVg7_ECg     
 
 ### Pre-Exercice: Configurer les casques
 
