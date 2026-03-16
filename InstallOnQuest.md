@@ -1,4 +1,7 @@
 
+"adb devices"
+
+
 
 * [ ] Passer le casque en mode **Developer** (*)
   * [ ] https://github.com/EloiStree/HelloGodotXR/issues/170
