@@ -30,6 +30,14 @@ https://youtu.be/cMIOaX0smCk
 
 ----------------------------------------------
 
+Le but est de vous initier au monde de l’industrie du jeu vidéo.
+L’exercice n’est donc pas simple et vise à vous mettre un peu à l’épreuve, afin de voir si c’est bien dans ce domaine que vous souhaitez étudier.
+
+Mais nous avons toute la journée pour nous y consacrer.
+
+Ci-dessous, vous trouverez des exercices ainsi que des informations complémentaires pour bien débuter. 😋  
+
+-------------
 
 ### Exercice: Bon beau cube
 
@@ -95,6 +103,7 @@ Ta liste n’était pas catastrophique, mais elle avait quelques petits crimes c
   * [ ] https://github.com/EloiStree/HelloGodotXR/issues/178
 * [ ] Importer le **projet dans Godot**
 
+
 ### Gestion d’une flotte de Quest 3 avec adb -s
 
 Il existe une demande… développer des applications permettant de gérer des flottes d’appareils.     
@@ -111,8 +120,9 @@ Ce n’est pas la méthode la plus répandue, mais elle offre déjà de nombreus
 
 --------------------
 
+# Painting Jam et fichier
 
-- Importer depuis:
+Comment on importe depuis:
   - [Open Brush](https://github.com/EloiStree/HelloGodotXR/issues/124)
     - https://youtu.be/NtxuV1WpRPc?t=10307
   - [Open Blocks](https://github.com/EloiStree/HelloGodotXR/issues/122)
@@ -123,9 +133,9 @@ Ce n’est pas la méthode la plus répandue, mais elle offre déjà de nombreus
     - https://youtu.be/NtxuV1WpRPc?t=10962
   - [Encore plus ?](https://github.com/EloiStree/HelloGodotXR/issues/148)
 
-
-
 ---------------
+
+# C'est quoi encore tout les applications dont on a parler ?
 
 Big APK:
 - [ ] Termux.apk https://github.com/EloiStree/HelloGodotXR/issues/141
