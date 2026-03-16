@@ -41,7 +41,7 @@ Ci-dessous, vous trouverez des exercices ainsi que des informations complémenta
 
 -------------
 
-### Exercice: Bon beau cube
+### Exercice: Mon beau cube
 
 > Avant d'aller en XR, essayons de creer un cube en Godot.
 > Puis on ferra le meme exercice en XR
