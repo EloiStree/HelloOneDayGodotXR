@@ -1,6 +1,6 @@
 # Hello One Day Godot XR
 
-> Un jour pour vous apprendre à faire une application en Godot XR
+> Un jour pour vous apprendre à decourir Godot XR et ses voisins.
 
 
 ### L'exercice: Open Brush en groupe avec git.
