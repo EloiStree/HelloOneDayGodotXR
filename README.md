@@ -75,7 +75,13 @@ Bon, après, il faut apprendre à utiliser Godot ;)
 
 ### Pre-Exercice: Configurer les casques
 
-Ta liste n’était pas catastrophique, mais elle avait quelques petits crimes contre la grammaire française. Rien de dramatique, juste de quoi faire grimacer un prof de français. Voilà une version corrigée et un peu plus propre.
+Pour faire l'exercice sans vous donnez trois semaines de cours sur ADB, Termux, la console et les apks...  
+Je dois installer deux trois applications 😋.  
+Si vous avez le courage... Je vous montre cela ici:    
+[🎥](https://youtu.be/8Nu3c07GZaI  ) https://youtu.be/8Nu3c07GZaI         
+
+Et ici, si vous voulez faire de A a Z avec un tablette chez vous:   
+[🎥](https://youtu.be/4-LGN76QHdE) https://youtu.be/4-LGN76QHdE   
 
 * [ ] Passer le casque en mode **Developer** (*)
   * [ ]  https://github.com/EloiStree/HelloGodotXR/issues/170
