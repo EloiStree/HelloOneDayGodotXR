@@ -105,7 +105,7 @@ Et ici, si vous voulez faire de A a Z avec un tablette chez vous:
   * [ ] https://github.com/EloiStree/HelloGit/issues/26
 * [ ] Installer **GitHub CLI** `pkg install gh -y`
   * [ ] https://github.com/EloiStree/HelloGodotXR/issues/143
-* [ ] **Se connecter** sur le Quest avec **GitHub** `gh auth login
+* [ ] **Se connecter** sur le Quest avec **GitHub** `gh auth login`  
   * [ ] https://github.com/EloiStree/HelloGodotXR/issues/177
 * [ ] Cloner le **projet HelloOneDayGodotXR** dans **Documents**
   * [ ] https://github.com/EloiStree/HelloGodotXR/issues/178
