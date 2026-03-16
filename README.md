@@ -23,10 +23,17 @@ https://github.com/EloiStree/2026_03_15_gdp_hello_cube
 > Configurer Godot et commencer un projet en XR prend littéralement 4 minutes 😲.
 Bon, après, il faut apprendre à utiliser Godot ;)
 
+[<img width="1824" height="866" alt="Image" src="https://github.com/user-attachments/assets/abad3bf7-c2ed-4ba4-8b20-bb03e3c40f66" /> ](https://youtu.be/yMFC_DTZ0fQ)
+[🎥](https://youtu.be/yMFC_DTZ0fQ)  https://youtu.be/yMFC_DTZ0fQ
+
+
+
+### Culture General: C'est quoi un cube ?
+
+> C est trop pour aujourd'hui... Mais c'est quoi en gros un cube ?  
+   
 🖼️  
 🎥  
-
-
 
 ### Pre-Exercice: Configurer les casques
 
