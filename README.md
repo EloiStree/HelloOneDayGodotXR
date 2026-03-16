@@ -13,8 +13,10 @@ Des cubes 🧊 :
 [<img width="1110" height="65" alt="Image" src="https://github.com/user-attachments/assets/456ec37a-dd3a-4a5f-933c-95e72a6ef292" />](https://github.com/EloiStree/2026_03_15_gdp_hello_cube)  
 https://github.com/EloiStree/2026_03_15_gdp_hello_cube    
 
-🖼️  
-🎥  
+[<img width="1909" height="916" alt="Image" src="https://github.com/user-attachments/assets/0b20e236-b260-46ec-9acc-a0a77d7d124e" />](https://youtu.be/tbfzr3zpOBc) 
+[🎥](https://youtu.be/tbfzr3zpOBc
+) https://youtu.be/tbfzr3zpOBc  
+ 
 
 ### Exercice: Hello Godot Cube XR
 
