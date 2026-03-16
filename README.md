@@ -95,7 +95,19 @@ Ta liste n’était pas catastrophique, mais elle avait quelques petits crimes c
   * [ ] https://github.com/EloiStree/HelloGodotXR/issues/178
 * [ ] Importer le **projet dans Godot**
 
+### Gestion d’une flotte de Quest 3 avec adb -s
 
+Il existe une demande… développer des applications permettant de gérer des flottes d’appareils.     
+Préparer 50 Quest 3 peut facilement prendre 2 à 3 jours.     
+
+[<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/de18dec6-12a9-4a89-9072-9386fe1858ca" />](https://github.com/EloiStree/HelloAdb/issues/4)
+Source : https://github.com/EloiStree/HelloAdb/issues/4
+
+Pour automatiser ce type de gestion, il existe des solutions MDM, généralement payantes.
+Cependant, on peut également utiliser adb -s. Ce n’est pas la méthode la plus répandue, mais elle offre déjà de nombreuses possibilités.
+
+🖼️  
+🎥  
 
 --------------------
 
