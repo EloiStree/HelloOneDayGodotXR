@@ -122,3 +122,23 @@ Ce n’est pas la méthode la plus répandue, mais elle offre déjà de nombreus
   - Bonus: [Gravity Sketch](https://github.com/EloiStree/HelloGodotXR/issues/125)
     - https://youtu.be/NtxuV1WpRPc?t=10962
   - [Encore plus ?](https://github.com/EloiStree/HelloGodotXR/issues/148)
+
+
+
+---------------
+
+Big APK:
+- [ ] Termux.apk https://github.com/EloiStree/HelloGodotXR/issues/141
+- [ ] GODOT.apk https://github.com/EloiStree/HelloGodotXR/issues/132
+- [ ] GRTK.apk https://github.com/EloiStree/HelloGodotXR/issues/104
+- [ ] MRTK.apk https://github.com/EloiStree/HelloGodotXR/issues/101
+- [ ] OpenBlocks.apk https://github.com/EloiStree/HelloGodotXR/issues/122
+- [ ] OpenBrush.apk https://github.com/EloiStree/HelloGodotXR/issues/124
+- [ ] VRTK.apk https://github.com/EloiStree/HelloGodotXR/issues/102
+- [ ] XRTK.apk https://github.com/EloiStree/HelloGodotXR/issues/103
+
+Little APK:
+- [ ] F-Droid.apk https://github.com/EloiStree/HelloGodotXR/issues/140
+- [ ] Fossify.apk https://github.com/EloiStree/HelloGodotXR/issues/144
+- [ ] Termuc.apk https://github.com/EloiStree/HelloGodotXR/issues/142
+- [ ] SideQuestLite.apk https://github.com/EloiStree/HelloGodotXR/issues/179
