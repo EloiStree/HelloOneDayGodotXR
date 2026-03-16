@@ -30,10 +30,12 @@ https://youtu.be/cMIOaX0smCk
 
 ----------------------------------------------
 
-Le but est de vous initier au monde de l’industrie du jeu vidéo.
-L’exercice n’est donc pas simple et vise à vous mettre un peu à l’épreuve, afin de voir si c’est bien dans ce domaine que vous souhaitez étudier.
+Le but est de vous initier au monde de l’industrie du jeu vidéo 🏭🧑‍🏭.     
+L’exercice est donc faisable, mais pas simple.     
+Il vise à vous mettre un peu à l’épreuve🚨, afin de voir si c’est bien dans ce domaine que vous souhaitez étudier.    
+Car il est un reflet de vos années à venir si vous choisissez cette voie.      
 
-Mais nous avons toute la journée pour nous y consacrer.
+Mais nous avons toute la journée pour nous y consacrer.      
 
 Ci-dessous, vous trouverez des exercices ainsi que des informations complémentaires pour bien débuter. 😋  
 
