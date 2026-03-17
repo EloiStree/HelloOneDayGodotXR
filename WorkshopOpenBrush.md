@@ -1,9 +1,96 @@
 
+Comme vous avez fait un peu de Git avec [Arnaud Jopart](https://www.linkedin.com/in/arnaudjopart/) 😉
+Pratiquons sur vos téléphones.
+
+Voici deux vidéos sur le sujet :
+* Godot to Git depuis votre téléphone : https://youtu.be/Sy2_I87Rws0?t=77
+* Un téléphone tout frais : https://youtu.be/4-LGN76QHdE?t=1135
+* Utiliser GitHub et Godot avec Termux https://youtu.be/eNjfkL6R6ZQ?t=293
+* [Setup Godor XR Project (de loin)](https://github.com/EloiStree/HelloGodotXR/issues/15)
+
+---
+
+### Alors, un premier exercice :
+
+* [ ] Installer Godot depuis le store sur vos téléphones [🎥](https://youtu.be/4-LGN76QHdE?t=697)
+  * [ ] Créons un simple cube pour le fun dans un nouveau projet
+  * [ ] Un petit Hello World pour la tradition 😉
+  * [ ] Vous pouvez demander à Google ou à une IA comment faire tourner le cube
+* [ ] Installer Godot sur l’ordinateur de formation
+* [ ] Passer vos téléphones Android en mode développeur [📖](https://github.com/EloiStree/HelloGodotXR/issues/196) 
+* [ ] Télécharger scrcpy sur vos PC [📖](https://github.com/EloiStree/HelloGodotXR/issues/119)
+* [ ] Utiliser `scrcpy.exe` pour le fun [📖](https://github.com/EloiStree/HelloGodotXR/issues/84)
+* [ ] Utiliser `adb devices` [📖](https://github.com/EloiStree/HelloAdb/issues/2)
+* [ ] Télécharger F-Droid : [📖]()
+  * [ ] Si par telephone: Donnez le droit d'installer des apks [🎥](https://youtu.be/4-LGN76QHdE?t=831)
+* [ ] Utiliser `adb install path/f-droid.apk` [📖](https://github.com/EloiStree/HelloAdb/issues/3)
+  * [ ] Installer Termux [📖](https://github.com/EloiStree/HelloGodotXR/issues/141)
+  * [ ] Installer TermuC [📖](https://github.com/EloiStree/HelloGodotXR/issues/142)
+  * [ ] Setup Termux avec Termuc C [📖](https://github.com/EloiStree/HelloGodotXR/issues/197)
+  * [ ] Installer Fossify (pour bouger et dézipper) [📖](https://github.com/EloiStree/HelloGodotXR/issues/144)
+* [ ] Donner les droits administrateurs à Termux [🎥]()
+* [ ] Aller dans Termux 
+  * [ ] `pkg install git` [📖](https://github.com/EloiStree/HelloGodotXR/issues/143)
+  * [ ] `pkg install gh` [📖](https://github.com/EloiStree/HelloGodotXR/issues/143)
+  * [ ] `gh auth login` [📖](https://github.com/EloiStree/HelloGodotXR/issues/201)
+  * [ ] `cd ~/storage/shared/documents` [📖](https://github.com/EloiStree/HelloGodotXR/issues/202)
+  * [ ] `git clone` [📖](https://github.com/EloiStree/HelloGit/issues/22)
+  * [ ] `git clone https://github.com/EloiStree/HelloOneDayGodotXR.git` [📖]()
+  * [ ] `git clone --recursive` [📖](https://github.com/EloiStree/HelloGit/issues/60)
+  * [ ] `git clone --recursive https://github.com/EloiStree/2025_10_18_godot_hello_godot_script.git` [📖]()
+* [ ] Allons importer le projet dans Godot depuis `documents/`
+
+---
+
+Bon, vous avez maintenant notre projet sur votre téléphone 😉
+
+* [ ] Allez dans `_ /team/` et créez un dossier à votre nom
+  * [ ] Nom_prenom (alphanumérique)
+* [ ] Ajouter un `README.md` avec votre portfolio ou GitHub
+  * [ ] 4 mots de compétence qui vous définissent en termes de carrière ?
+  * [ ] Le moteur que vous allez étudier après la formation ?
+  * [ ] Votre langage de prédilection ?
+* [ ] Pour push, il faut que je vous ajoute au projet
+  * [ ] Mettez un commentaire ici et je vous ajouterai :
+    * [ ] [https://github.com/EloiStree/HelloOneDayGodotXR/issues/2](https://github.com/EloiStree/HelloOneDayGodotXR/issues/2)
+
+---
+
+### Juste pour voir :
+
+* Qui veut faire des jeux réalistes ? → *Unreal Engine*
+* Qui aime l’open source ? → *Godot*
+* Qui veut faire des projets utilisant toute l’API de Meta ? → *Unity*
+* Quel Pokémon allez-vous choisir comme starter (Unreal, Unity, Godot, autre) ?
+* Un langage que vous avez envie d’étudier ou que vous avez déjà commencé ?
+* Il y a un crabe dans la classe ?
+
+---
+
+Bon, vous savez utiliser Termux, gh, Git et ouvrir Godot.
+Allons pratiquer à l’aveugle, si je puis dire.
+
+### L’exercice :
+
+[https://youtu.be/cMIOaX0smCk?t=3](https://youtu.be/cMIOaX0smCk?t=3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------
+
 Salut a vous, comme il n est pas toujours facile de voir de debugger un personne en realite virtuelle.
 Je vais essayer de documenter cette exercice plus que de mesure.
 
-L'exercice:
-https://youtu.be/cMIOaX0smCk?t=3
 
 Le Quest 3, c est cette bete la.
 <img width="765" height="287" alt="image" src="https://github.com/user-attachments/assets/21e2f05d-ccd5-48bd-a9a4-aa30a7248f01" />
