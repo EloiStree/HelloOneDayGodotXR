@@ -111,6 +111,9 @@ Charger un niveau avec un feuille A4:
 https://github.com/EloiStree/HelloGodotXR/issues/192
 
 
+- https://youtu.be/V6BF-0fg1J8?t=3
+- https://youtu.be/XgdJnyIzkik?t=13201
+
 
 
 
