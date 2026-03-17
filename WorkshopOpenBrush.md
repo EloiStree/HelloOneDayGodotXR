@@ -13,9 +13,9 @@ Voici deux vidéos sur le sujet :
 ### Alors, un premier exercice :
 
 * [ ] Installer Godot depuis le store sur vos téléphones [🎥](https://youtu.be/4-LGN76QHdE?t=697)
-  * [ ] Créons un simple cube pour le fun dans un nouveau projet
-  * [ ] Un petit Hello World pour la tradition 😉
-  * [ ] Vous pouvez demander à Google ou à une IA comment faire tourner le cube
+  * [ ] Créons un simple cube pour le fun dans un nouveau projet [📖](https://github.com/EloiStree/HelloGodotXR/issues/204)  
+  * [ ] Un petit Hello World pour la tradition 😉 [📖](https://github.com/EloiStree/HelloGodotXR/issues/203)
+  * [ ] Tournons le cube pour le fun de voir les FPS de votre telephone [📖](https://github.com/EloiStree/HelloGodotXR/issues/205)
 * [ ] Installer Godot sur l’ordinateur de formation
 * [ ] Passer vos téléphones Android en mode développeur [📖](https://github.com/EloiStree/HelloGodotXR/issues/196) 
 * [ ] Télécharger scrcpy sur vos PC [📖](https://github.com/EloiStree/HelloGodotXR/issues/119)
