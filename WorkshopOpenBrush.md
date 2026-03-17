@@ -20,6 +20,9 @@ Un simple click permet de lui demander de se reveiller.
 Vous avez deux boutons important:
 <img width="470" height="79" alt="image" src="https://github.com/user-attachments/assets/f92f9e09-bde3-4b1f-87a5-1f543ef93b94" />
 
+[<img width="870" height="452" alt="image" src="https://github.com/user-attachments/assets/04dc1d33-6839-47cd-88aa-0bc4f8189f65" />](https://youtu.be/tweBgb79VyE?t=149)
+https://youtu.be/tweBgb79VyE?t=149
+
 Celui de gauche, menu pour les jeux:
 - Permet certain menu en jeu.
 
@@ -30,8 +33,9 @@ Celui de droite, menu pour le casque Meta:
 Pour le menu droite qui est tres important, il y a un equivalent avec votre main. Car le casque est utilisable sans les mains.
 
 Il faut pincher avec les doights vers le haut 
-<img width="705" height="312" alt="image" src="https://github.com/user-attachments/assets/978fed3b-8aa7-4046-ad4f-34a68837593e" />
-_TODO:Remplacer l image par une meilleur_  
+[<img width="868" height="488" alt="image" src="https://github.com/user-attachments/assets/2680b49a-159a-4d65-b05b-bc0533dadf28" />](https://youtu.be/tweBgb79VyE?t=240)   
+https://youtu.be/tweBgb79VyE?t=240     
+
 - Pinch rapide: sortir et rentrer dans l'application
 - Pinch long: recentrer les jeux ou applications
 
