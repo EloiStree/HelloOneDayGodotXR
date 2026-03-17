@@ -91,18 +91,22 @@ https://www.youtube.com/watch?v=XgdJnyIzkik
 
 
 
-C est auoi un guardian ?
-https://github.com/EloiStree/HelloGodotXR/issues/39
+C est auoi un guardian ?  
+https://github.com/EloiStree/HelloGodotXR/issues/39  
 
 C est quoi un room scan ?
-https://github.com/EloiStree/HelloGodotXR/issues/187
+https://github.com/EloiStree/HelloGodotXR/issues/187  
+
+First Encounter  
+https://www.youtube.com/watch?v=Mxnw08hVRP8  
+
+Commencer scanner avec Open Brush   
+https://github.com/EloiStree/HelloGodotXR/issues/191  
+
+Charger un niveau avec un feuille A4:  
+https://github.com/EloiStree/HelloGodotXR/issues/192
 
 
-
-
-
-First Encounter
-https://www.youtube.com/watch?v=Mxnw08hVRP8
 
 
 
