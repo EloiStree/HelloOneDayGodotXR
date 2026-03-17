@@ -73,6 +73,10 @@ Bon, après, il faut apprendre à utiliser Godot ;)
 [<img width="1836" height="945" alt="image" src="https://github.com/user-attachments/assets/1d0f74f6-9eec-4b9f-85f8-f886f1e58cc0" />](https://youtu.be/fT_yVg7_ECg)  
 [🎥](https://youtu.be/fT_yVg7_ECg) https://youtu.be/fT_yVg7_ECg     
 
+_Alors... Si vous etes plus sur du Unity3D que du Godot. J ai le meme exercice ici:_
+[<img width="1575" height="578" alt="image" src="https://github.com/user-attachments/assets/84ef844c-53ef-4bf5-b3c7-1d061a2a24a7" />](https://youtu.be/XgdJnyIzkik?t=6)  
+https://youtu.be/XgdJnyIzkik?t=6  
+
 ### Pre-Exercice: Configurer les casques
 
 Pour faire l'exercice sans vous donnez trois semaines de cours sur ADB, Termux, la console et les apks...  
