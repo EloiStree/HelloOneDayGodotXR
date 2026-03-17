@@ -91,7 +91,18 @@ https://www.youtube.com/watch?v=XgdJnyIzkik
 
 
 
+C est auoi un guardian ?
+https://github.com/EloiStree/HelloGodotXR/issues/39
 
+C est quoi un room scan ?
+https://github.com/EloiStree/HelloGodotXR/issues/187
+
+
+
+
+
+First Encounter
+https://www.youtube.com/watch?v=Mxnw08hVRP8
 
 
 
