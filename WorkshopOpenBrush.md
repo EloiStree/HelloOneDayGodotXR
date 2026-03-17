@@ -70,6 +70,14 @@ Utiliser votre pouce et index pour clicker et orianter le rayon.
 La rayon permet de viser comme une souris.   
 
 
+IL nous reste deux menu a connaitre:
+- Les paremettres generaux
+- Les paramettre rapide
+
+  
+
+----------------
+
 
 
 
