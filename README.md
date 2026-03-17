@@ -164,3 +164,26 @@ Little APK:
 - [ ] Fossify.apk https://github.com/EloiStree/HelloGodotXR/issues/144
 - [ ] Termuc.apk https://github.com/EloiStree/HelloGodotXR/issues/142
 - [ ] SideQuestLite.apk https://github.com/EloiStree/HelloGodotXR/issues/179
+
+
+# Git: Add Commit Pull Push
+
+
+[<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ee473b54-9c58-49a8-9820-4f14df099730" />](https://github.com/EloiStree/HelloGit/issues/42)   
+Git Basic: [📖->](https://github.com/EloiStree/HelloGit/issues/42)  
+**Must know minimum:**  
+- [ ] git config User name  [https://github.com/EloiStree/HelloGitForUnity3D/issues/27](https://github.com/EloiStree/HelloGitForUnity3D/issues/27)
+- [ ] git config user email  [https://github.com/EloiStree/HelloGitForUnity3D/issues/26](https://github.com/EloiStree/HelloGitForUnity3D/issues/26)
+- [ ] git clone  [https://github.com/EloiStree/HelloGitForUnity3D/issues/22](https://github.com/EloiStree/HelloGitForUnity3D/issues/22)
+- [ ] git add  [https://github.com/EloiStree/HelloGitForUnity3D/issues/10](https://github.com/EloiStree/HelloGitForUnity3D/issues/10)
+- [ ] git status  [https://github.com/EloiStree/HelloGitForUnity3D/issues/23](https://github.com/EloiStree/HelloGitForUnity3D/issues/23)
+- [ ] git commit  [https://github.com/EloiStree/HelloGitForUnity3D/issues/11](https://github.com/EloiStree/HelloGitForUnity3D/issues/11)
+- [ ] git pull  [https://github.com/EloiStree/HelloGitForUnity3D/issues/13](https://github.com/EloiStree/HelloGitForUnity3D/issues/13)
+- [ ] git push  [https://github.com/EloiStree/HelloGitForUnity3D/issues/13](https://github.com/EloiStree/HelloGitForUnity3D/issues/13)
+
+
+
+
+
+
+
