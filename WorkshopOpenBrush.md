@@ -74,6 +74,14 @@ IL nous reste deux menu a connaitre:
 - Les paremettres generaux
 - Les paramettre rapide
 
+
+https://www.autodesk.com/products/fusion-360/personal
+https://www.youtube.com/@eloistreeraw/videos
+https://www.youtube.com/@EloiTeaching/videos
+https://www.youtube.com/watch?v=V6BF-0fg1J8
+https://www.youtube.com/watch?v=tweBgb79VyE
+https://www.youtube.com/watch?v=Ncd4KBM3km8&t=916s
+https://www.youtube.com/watch?v=XgdJnyIzkik
   
 
 ----------------
