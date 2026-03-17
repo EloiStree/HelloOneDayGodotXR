@@ -88,6 +88,10 @@ https://www.youtube.com/watch?v=XgdJnyIzkik
 
 
 
+Parlons Manette:
+[<img width="882" height="487" alt="image" src="https://github.com/user-attachments/assets/0897b29b-4e7f-4c43-996f-3f335a222d8e" />](https://github.com/EloiStree/HelloGodotXR/issues/193)
+https://github.com/EloiStree/HelloGodotXR/issues/193  
+
 
 
 
