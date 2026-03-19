@@ -1,7 +1,7 @@
 
-Comme vous avez fait un peu de Git avec [Arnaud Jopart](https://www.linkedin.com/in/arnaudjopart/) 😉
-Pratiquons sur vos téléphones.
-
+Comme vous avez fait un peu de Git avec [Arnaud Jopart](https://www.linkedin.com/in/arnaudjopart/) 😉  
+Pratiquons sur vos téléphones.   
+  
 Voici deux vidéos sur le sujet :
 * Godot to Git depuis votre téléphone : https://youtu.be/Sy2_I87Rws0?t=77
 * Un téléphone tout frais : https://youtu.be/4-LGN76QHdE?t=1135
